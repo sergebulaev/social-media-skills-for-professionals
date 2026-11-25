@@ -23,14 +23,9 @@ drafts. They write your own organic posts; they do not run ads or sell leads.
 
 ## The bundles
 
-- **[Roofing contractors and roofers](https://github.com/sergebulaev/roofing-social-media-skills)**: Roofing social media posts and social media marketing for roofing contractors. Signature skill: Storm Watch; checks: license and storm-claim.
-- **[Veterinarians and veterinary clinics](https://github.com/sergebulaev/veterinary-social-media-skills)**: Veterinary marketing and veterinary social media posts. Signature skill: Pet Risk Radar; checks: owner consent, no-diagnosis and claims.
-- **[Real estate agents, REALTORS® and brokers](https://github.com/sergebulaev/realtor-social-media-skills)**: Realtor social media and real estate social media marketing. Signature skill: Market Report; checks: Fair Housing and brokerage.
-- **[Dentists and dental practices](https://github.com/sergebulaev/dental-social-media-skills)**: Dental social media marketing and dental marketing ideas. Signature skill: Benefits Countdown; checks: HIPAA and ADA Code.
-- **[Restaurant owners, chefs and restaurant managers](https://github.com/sergebulaev/restaurant-social-media-skills)**: Restaurant social media marketing and restaurant marketing ideas. Signature skill: Menu Calendar; checks: FTC reviews, fees and alcohol.
-- **[Immigration lawyers and immigration law firms](https://github.com/sergebulaev/immigration-lawyer-social-media-skills)**: Immigration lawyer marketing and law firm social media, in English and Spanish. Signature skill: Visa Bulletin Day; checks: ABA advertising rules and no-notario.
-- **[Mortgage loan officers and mortgage brokers](https://github.com/sergebulaev/mortgage-social-media-skills)**: Mortgage broker social media and loan officer marketing. Signature skill: Thursday Rate Desk; checks: Reg Z and NMLS.
-- **[Churches, pastors and church communications teams](https://github.com/sergebulaev/church-social-media-skills)**: Church social media posts and church communications. Signature skill: Sermon Week; checks: 501(c)(3) and music license.
+The first bundles are on their way. Until then, the same author's skills for one network each:
+
+Skills for one network instead of one profession: [LinkedIn](https://github.com/sergebulaev/linkedin-skills) · [X](https://github.com/sergebulaev/x-skills) · [Instagram](https://github.com/sergebulaev/instagram-skills) · [YouTube](https://github.com/sergebulaev/youtube-skills) · [TikTok](https://github.com/sergebulaev/tiktok-skills) · [Threads](https://github.com/sergebulaev/threads-skills) · [Facebook](https://github.com/sergebulaev/facebook-skills).
 
 ## How every bundle works
 
