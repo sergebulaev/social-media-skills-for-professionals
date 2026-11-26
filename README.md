@@ -23,7 +23,7 @@ drafts. They write your own organic posts; they do not run ads or sell leads.
 
 ## The bundles
 
-The first bundles are on their way. Until then, the same author's skills for one network each:
+- **[Mortgage loan officers and mortgage brokers](https://github.com/sergebulaev/mortgage-social-media-skills)**: Mortgage broker social media and loan officer marketing. Signature skill: Thursday Rate Desk; checks: Reg Z and NMLS.
 
 Skills for one network instead of one profession: [LinkedIn](https://github.com/sergebulaev/linkedin-skills) · [X](https://github.com/sergebulaev/x-skills) · [Instagram](https://github.com/sergebulaev/instagram-skills) · [YouTube](https://github.com/sergebulaev/youtube-skills) · [TikTok](https://github.com/sergebulaev/tiktok-skills) · [Threads](https://github.com/sergebulaev/threads-skills) · [Facebook](https://github.com/sergebulaev/facebook-skills).
 
